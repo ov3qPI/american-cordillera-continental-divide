@@ -5,6 +5,18 @@
   <Placemark>
     <name>Cordillera Divide</name>
     <description>
+Data provenance and licensing status (2026-10-23):
+HydroBASINS / HydroSHEDS version 1, World Wildlife Fund (WWF), is identified by the original KML as an underlying source. HydroBASINS data are subject to the HydroSHEDS v1 license and its restrictions; attribution alone does not establish redistribution permission.
+Source and license: https://www.hydrosheds.org/products/hydrobasins
+HydroSHEDS v1 technical documentation, Appendix A and Exhibit B: https://data.hydrosheds.org/file/technical-documentation/HydroSHEDS_TechDoc_v1_4.pdf
+Reference: Lehner and Grill (2013), Hydrological Processes 27(15), 2171-2186, doi:10.1002/hyp.9740.
+Reference: Lehner, Verdin and Jarvis (2008), Eos 89(10), 93-94, doi:10.1029/2008eo100001.
+Panama: the original KML reports using an official Atlantic/Pacific watershed boundary. Possible government providers include MiAmbiente / SINIA, specifically Cuencas Hidrograficas at 1:250,000 scale. The exact Panamanian input data and its redistribution license have NOT been independently verified.
+Candidate source: https://sinia.gob.pa/datos-abiertos-y-geoservicios/
+Candidate data download: https://sinia.gob.pa/datos/Cuencas_Hidrograficas_250k_Po.zip
+Candidate service: https://geoportal.miambiente.gob.pa/server/rest/services/Hosted/Cuenca_Hidrogr%C3%A1fica_250000/FeatureServer/0
+No unrestricted open-data license is asserted for this KML. HydroSHEDS v2's CC BY 4.0 terms do not automatically apply to this v1-derived geometry. See the repository README for provenance, attributions, and licensing uncertainties.
+Original geometry notes:
 Official Panama Atlantic/Pacific watershed boundary replaces the previous 22.56 km HydroBASINS regional seam.
 Remaining micro-alignments:
 NA-to-Panama: 0.276 km
